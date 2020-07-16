@@ -1,0 +1,14 @@
+C:\Users\shree\source\repos\HandsOn3\HandsOn3\bin\Debug\netcoreapp2.1\HandsOn3.deps.json
+C:\Users\shree\source\repos\HandsOn3\HandsOn3\bin\Debug\netcoreapp2.1\HandsOn3.runtimeconfig.json
+C:\Users\shree\source\repos\HandsOn3\HandsOn3\bin\Debug\netcoreapp2.1\HandsOn3.runtimeconfig.dev.json
+C:\Users\shree\source\repos\HandsOn3\HandsOn3\bin\Debug\netcoreapp2.1\HandsOn3.dll
+C:\Users\shree\source\repos\HandsOn3\HandsOn3\obj\Debug\netcoreapp2.1\HandsOn3.csprojAssemblyReference.cache
+C:\Users\shree\source\repos\HandsOn3\HandsOn3\obj\Debug\netcoreapp2.1\HandsOn3.csproj.CoreCompileInputs.cache
+C:\Users\shree\source\repos\HandsOn3\HandsOn3\obj\Debug\netcoreapp2.1\HandsOn3.RazorAssemblyInfo.cache
+C:\Users\shree\source\repos\HandsOn3\HandsOn3\obj\Debug\netcoreapp2.1\HandsOn3.RazorAssemblyInfo.cs
+C:\Users\shree\source\repos\HandsOn3\HandsOn3\obj\Debug\netcoreapp2.1\HandsOn3.AssemblyInfoInputs.cache
+C:\Users\shree\source\repos\HandsOn3\HandsOn3\obj\Debug\netcoreapp2.1\HandsOn3.AssemblyInfo.cs
+C:\Users\shree\source\repos\HandsOn3\HandsOn3\obj\Debug\netcoreapp2.1\HandsOn3.RazorTargetAssemblyInfo.cache
+C:\Users\shree\source\repos\HandsOn3\HandsOn3\bin\Debug\netcoreapp2.1\HandsOn3.pdb
+C:\Users\shree\source\repos\HandsOn3\HandsOn3\obj\Debug\netcoreapp2.1\HandsOn3.dll
+C:\Users\shree\source\repos\HandsOn3\HandsOn3\obj\Debug\netcoreapp2.1\HandsOn3.pdb
